@@ -1,7 +1,7 @@
 # Iris-Dataset-Classification
 Before implementing any algorithm, I first found out the model which can give highest accuracy for this dataset.
 
-I tested the dataset with three different models called Logistic Regression, K Nearest Neighbor and Decision Tre Classifier.
+I tested the dataset with three different models called Logistic Regression, K Nearest Neighbor and Decision Tree Classifier.
 
 After testing, KNN was found with highest accuracy with this dataset.
 
